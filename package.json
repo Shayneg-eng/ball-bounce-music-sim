@@ -1,0 +1,13 @@
+{
+  "name": "ball-bounce-music-sim",
+  "version": "1.0.0",
+  "description": "Web Audio API beat detector for the ball-bounce music video generator",
+  "main": "beat_detect.js",
+  "scripts": {
+    "detect": "node beat_detect.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-web-audio-api": "^2.1.0"
+  }
+}
